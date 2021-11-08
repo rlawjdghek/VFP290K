@@ -22,7 +22,7 @@ We use pytorch=1.9.1 from this [link](https://pytorch.org/get-started/locally/).
 #### 2. Install MMDetection
 ```setup
 pip install openmim
-mim install mmdet
+mim install mmdet -y
 pip install future tensorboard
 ```
 
