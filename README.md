@@ -114,7 +114,7 @@ python test.py --weights runs/train/exp<your_exp_num>/weights/best.pt --data dat
         
         
 ## Pre-trained Models
-You can download all the pretrained models [here](https://drive.google.com/drive/folders/1HT8z-iF3jJRsD4uvfDDKLEExE7N0MqrV)
+You can download all the pretrained models [.zip](https://drive.google.com/drive/folders/1HT8z-iF3jJRsD4uvfDDKLEExE7N0MqrV) and [.tar](https://drive.google.com/file/d/1y45sh2XwYsNF9AhvFYgYYLYjJAqWUOOV/view?usp=sharing)
 
 ## Results
 Our model achieves the following performance on benchmark:
